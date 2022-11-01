@@ -1,3 +1,5 @@
+Simple project to reproduce [pnpm#5510](https://github.com/pnpm/pnpm/issues/5510).
+
 ## Steps to reproduce
 - Clone this repository
 - cd into repo
